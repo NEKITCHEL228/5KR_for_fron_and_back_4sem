@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager Pro (Real-time Kanban)",
+  "description": "A real-time collaborative Kanban board with RBAC, undo/redo, and Socket.IO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
