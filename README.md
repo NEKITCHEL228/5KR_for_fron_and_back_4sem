@@ -30,6 +30,8 @@
 - `PGDATABASE` - база данных
 - `PGHOST` - хост базы данных (`db` в docker)
 - `PGPORT` - порт базы данных
+- `ADMIN_USERNAME` - логин администратора (по умолчанию `admin`)
+- `ADMIN_PASSWORD` - пароль администратора
 
 ## Запуск тестов
 `npm test` или `npm run test:coverage`
